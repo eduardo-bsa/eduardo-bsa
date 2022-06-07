@@ -1,4 +1,4 @@
-### technologies I use the most
+### Technologies I use the most
 
 <div style="display: inline_block"><br>
   <img align="center" alt="SqlServer" height="50" width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png">
